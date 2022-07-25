@@ -1,7 +1,8 @@
 # Rocket-blog
 Projeto disponibilizado no programa Discover da Rocketseat
 
-O projeto se trata de um desafio proposto na trilha Discover para desenvolver uma homepage de acordo com o template.
+O projeto se trata de um desafio proposto na trilha Discover para desenvolver uma homepage de acordo com o template, segue link da publicação:
+https://araujodai.github.io/Rocket-blog/
 
 ---
 # **Techs**
