@@ -3,8 +3,8 @@ Projeto disponibilizado no programa Discover da Rocketseat
 
 O projeto se trata de um desafio proposto na trilha Discover para desenvolver uma homepage de acordo com o template.
 
-Link do site publicado:
-https://araujodai.github.io/Rocket-blog/
+
+<a href="https://araujodai.github.io/Rocket-blog/" target="_blank">Veja o site publicado</a>
 
 
 
